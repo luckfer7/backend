@@ -38,3 +38,4 @@ coverage/
 # Fastify / runtime
 tmp/
 temp/
+/generated/prisma
